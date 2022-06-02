@@ -1,0 +1,18 @@
+2022-06-01 19:53:54 Version 31
+2022-06-01 19:53:54 F:\CocosDashboard\resources\.editors\Creator\3.4.1\resources\tools\lightmap-tools/LightFX http://127.0.0.1:8000 
+2022-06-01 19:53:54 -:Building meshes
+2022-06-01 19:53:54 -:Building terrain
+2022-06-01 19:53:54 -:Building embree scene
+2022-06-01 19:53:55 Start 0
+
+2022-06-01 19:53:55 Build lighting 100
+
+2022-06-01 19:53:55 Save world...
+2022-06-01 19:53:55 Writing lfx file 'output/lfx.o'
+2022-06-01 19:53:55 Writing lfx file end.
+2022-06-01 19:53:55 Save world end.
+2022-06-01 19:53:55 Clear world...
+2022-06-01 19:53:55 Clear world end.
+2022-06-01 19:53:55 Emit finished
+2022-06-01 19:53:55 Delete world
+2022-06-01 19:53:55 Wait to stop
